@@ -29,4 +29,4 @@ Project is completed as required
 
 ## Author/Contact
 * M. Christopher - Initial work
-* GitHub: 
+* GitHub: https://mcheroajdn.github.io/Tsunami_Coffee/
